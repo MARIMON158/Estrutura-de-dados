@@ -1,3 +1,7 @@
+
+#TRABALHO ESTRUTURA DE DADOS MARIANA
+
+
 class Nodo:
     def __init__(self, numero, cor):
         self.numero = numero
